@@ -1,0 +1,135 @@
+:: StoryTitle
+Sahara
+
+
+:: StoryData
+{
+  "ifid": "E26F239C-CDEC-4D84-A9AD-E2BF520992C4",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "LLegada al campamento",
+  "zoom": 1
+}
+
+
+:: Encuentro con Amina {"position":"350,200","size":"100,100"}
+Amina:
+"Hola, no te había visto antes. ¿Eres nuevo aquí?"
+
+Jugador:
+"Sí, acabo de llegar. Me llamo Andrew McConnell, soy fotógrafo. ¿Y tú?"
+
+Amina:
+"Me llamo Amina. Llevo aquí casi toda mi vida. Mis padres huyeron cuando Marruecos ocupó nuestra tierra. Ahora intento ayudar a los más jóvenes a entender nuestra historia."
+
+Jugador:
+"Debe ser complicado, especialmente para los que nunca conocieron otra cosa."
+
+Amina:
+"Lo es. Muchos niños ven esto como su hogar porque nacieron aquí, pero no es nuestro hogar. No es la tierra de la que mis padres me hablaban. Por eso intento mostrarles nuestra historia, para que sepan de dónde venimos y por qué seguimos luchando."
+
+Jugador:
+"Eso es muy importante. ¿Cómo puedo ayudar?"
+
+Amina:
+"De hecho, hay algo que podrías hacer. Estamos preparando un mural comunitario para representar lo que hemos perdido y lo que soñamos recuperar. Algunos niños han recogido materiales, pero necesitamos más pintura y pinceles. Podrías pasar por el Centro de arte del martir Lehbib."
+
+Jugador:
+"Claro, ¿dónde está eso?"
+
+Amina:
+"Busca a Larbi Lehbib, está en la tienda grande junto a las lonas rojas. Él te dará lo que necesitamos."
+
+
+:: Entrar en la tienda {"position":"225,200","size":"100,100"}
+
+
+
+:: Inicio Misión Inventario Médico {"position":"475,150","size":"100,100"}
+Jugador:
+"Hola, Lina. Estoy listo para empezar. ¿En qué puedo ayudar?"
+
+Lina:
+"Genial, porque siempre hay algo que hacer aquí. Quiero que empieces con algo sencillo pero importante, el dispensario médico."
+
+Jugador:
+"¿Qué pasa con el dispensario?"
+
+Lina:
+"Los recursos son limitados, y los medicamentos nunca son suficientes para todos. Necesitamos una lista actualizada de lo que tenemos y lo que hace falta con urgencia para enviar un informe a la ONG que nos apoya. Salem, uno de los voluntarios saharauis, está a cargo allí. Habla con él, ayúdalo. Saca fotografias para documentar las condiciones y el inventario."
+
+Jugador:
+"Entendido, voy para allá."
+
+Lina:
+"El dispensario está al norte, junto a las tiendas verdes. Y no dudes en volver si necesitas algo."
+
+
+
+
+:: Inicio Misión Mural {"position":"475,275","size":"100,100"}
+Jugador:
+"Hola, ¿eres Larbi? Amina me envió a buscar pintura y pinceles para el mural."
+
+Larbi:
+"Sí, soy yo. Gracias por venir. Los materiales están aquí, listos para llevar. Pero dime, ¿qué te ha contado Amina sobre el mural?"
+
+Jugador:
+"Que representa las historias de la comunidad. Aunque no me dio muchos detalles."
+
+Larbi:
+"Eso es más o menos correcto. El mural es un espacio donde todos colaboran. Aquí, en los campamentos, no tenemos mucho, pero tenemos nuestras voces, nuestras historias. Pintar juntos nos da algo que compartir, algo que mostrar al mundo."
+
+Jugador:
+"Debe ser especial trabajar en algo así."
+
+Larbi:
+"Lo es. Es una forma de mantenernos unidos. Cuando era niño, nunca pensé que terminaría pintando. Pero en un lugar como este, uno busca maneras de expresarse, de no perder quién es. Esto me ayuda a mí, y a los demás también. Si los niños pintan, es porque creen en algo, aunque sea en un futuro mejor."
+
+Jugador:
+"Es una manera increíble de conectar con la gente. ¿Cómo puedo ayudar?"
+
+Larbi:
+"Necesitamos llevar los materiales al mural, cerca de la escuela. Allí puedes ver cómo trabajamos y, si quieres, puedes participar. También sería bueno que tomes fotos o hables con quienes estén allí. Siempre tienen algo interesante que contar.
+Y cuidado con los niños, a veces terminan pintándote a ti también."
+
+Jugador:
+"Entendido, llevaré los materiales ahora mismo."
+
+
+
+
+
+:: LLegada al campamento {"position":"100,200","size":"100,100"}
+(align:"=><=")+(box:"X=")[Lina:
+"¡Ah, por fin llegaste! Bienvenido al campamento de Smara. Soy Lina, coordinadora de voluntarios de Manos Unidas por el Sáhara. ¿Cómo fue tu viaje?"
+
+Jugador:
+"Un poco largo y caluroso, pero estoy emocionado de estar aquí."
+
+Lina:
+"Tendras que acostumbrarte al calor, no puedes escapar de el. 
+
+Antes de hablar de trabajo, quiero que entiendas un poco lo que hacemos aquí. Este campamento es el hogar de miles de saharauis que llevan décadas viviendo en el exilio, esperando una solución a un conflicto que nunca debió existir."
+
+Jugador:
+"Es increíble lo que han logrado. Quiero hacer todo lo que pueda para ayudar."
+
+Lina:
+"Eso es lo que necesitamos. Aquí no hay héroes, solo personas dispuestas a escuchar, aprender y aportar su granito de arena. Déjame mostrarte tu tienda y explicarte cómo funcionan las cosas."]
+
+(Lina comienza a caminar y el jugador la sigue, aprendiendo los controles básicos para moverse e interactuar.)
+
+(align:"=><=")+(box:"X=")[Lina:
+"Eso de ahi es la escuela, los recursos son limitados, seguro que estaran encantados de recibir ayuda. Más allá está el dispensario médico. Y aquí es donde organizamos las actividades comunitarias. Ahora, esta será tu tienda."]
+
+(Se detienen frente a una tienda más pequeña.)
+
+(align:"=><=")+(box:"X=")[Lina:
+"Este será tu espacio por ahora. Dentro encontrarás una cama, un baúl para guardar tus cosas y un diario para anotar tus pensamientos o progresos. También podrás descansar y organizar lo que hayas documentado."
+
+Jugador:
+"Perfecto. ¿Cuándo empiezo?"
+
+Lina:
+"Primero acomódate. Tómate un momento para descansar si lo necesitas. Cuando estés listo, ven a buscarme, y te asignaré tu primera tarea."]
