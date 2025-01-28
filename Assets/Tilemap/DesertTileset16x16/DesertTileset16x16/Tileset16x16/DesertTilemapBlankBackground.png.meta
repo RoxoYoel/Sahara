@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DesertTilemapBlankBackground_0: -3240056952994268881
+      DesertTilemapBlankBackground_1: 4201594864382279417
+      DesertTilemapBlankBackground_10: -8383209922554656797
+      DesertTilemapBlankBackground_11: 237996199312637419
+      DesertTilemapBlankBackground_12: -897343998938916980
+      DesertTilemapBlankBackground_13: -7167058735237403626
+      DesertTilemapBlankBackground_14: 240142172970173004
+      DesertTilemapBlankBackground_15: -3360684327198795573
+      DesertTilemapBlankBackground_2: -5755645280149169341
+      DesertTilemapBlankBackground_3: -6885753608806337636
+      DesertTilemapBlankBackground_4: 3546353525886504547
+      DesertTilemapBlankBackground_5: -6330263037504626196
+      DesertTilemapBlankBackground_6: 8332919033651247952
+      DesertTilemapBlankBackground_7: -5509796747220135940
+      DesertTilemapBlankBackground_8: 3444494458427760599
+      DesertTilemapBlankBackground_9: 777273458810080336
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
