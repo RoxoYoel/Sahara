@@ -6,46 +6,43 @@ public class GameManager : MonoBehaviour
     public GameObject RedScreen;
     public GameObject YellowScreen;
     public GameObject GreenScreen;
-    void Start()
+
+    private void Start()
     {
-        RedScreen.SetActive(false);
+        CameraRed();  // Inicia con la pantalla roja
     }
 
-    void Update()
+    private void Update()
     {
-        if (GreenScreen.activeSelf)
-        {
-            RedScreen.SetActive(false);
-            YellowScreen.SetActive(false);
-        }
-        else if (YellowScreen.activeSelf)
-        {
-            GreenScreen.SetActive(false);
-            RedScreen.SetActive(false);
-        }
-        else if (RedScreen.activeSelf)
-        {
-            GreenScreen.SetActive(false);
-            YellowScreen.SetActive(false);
-        }
-       
+        // Esto ya no es necesario porque cada método maneja sus transiciones.
     }
 
-    void LoadSceneCamara()
+    public void LoadSceneCamara()
     {
         SceneManager.LoadScene("Camera");
     }
 
-    void CameraYellow()
-    {   
-        YellowScreen.SetActive(true);    
-    } 
-    void CameraGreen()
-    {   
-        GreenScreen.SetActive(true);    
+    public void CameraYellow()
+    {
+        // Activa solo la pantalla amarilla y desactiva las demás
+        YellowScreen.SetActive(true);
+        GreenScreen.SetActive(false);
+        RedScreen.SetActive(false);
     }
-    void CameraRed()
-    {  
-        RedScreen.SetActive(true);    
+
+    public void CameraGreen()
+    {
+        // Activa solo la pantalla verde y desactiva las demás
+        GreenScreen.SetActive(true);
+        RedScreen.SetActive(false);
+        YellowScreen.SetActive(false);
+    }
+
+    public void CameraRed()
+    {
+        // Activa solo la pantalla roja y desactiva las demás
+        RedScreen.SetActive(true);
+        GreenScreen.SetActive(false);
+        YellowScreen.SetActive(false);
     }
 }
