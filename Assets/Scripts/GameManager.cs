@@ -15,6 +15,6 @@ public class GameManager : MonoBehaviour
 
     void LoadSceneCamara()
     {
-        SceneManager.LoadScene("Cámara");
+        SceneManager.LoadScene("Camera");
     }
 }
