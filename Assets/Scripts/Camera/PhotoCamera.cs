@@ -9,13 +9,28 @@ public class PhotoCamera : MonoBehaviour
     }
     void Update()
     {
-        // Si la posición del objeto está dentro de un "recuadro" definido por las coordenadas
-        if ((transform.position.x > -8.3f && transform.position.x < -7.2f) &&
-            (transform.position.y > 1.97f && transform.position.y < 2.61f))
-        {
-            GameManager.CameraGreen(); // Realiza la acción cuando está dentro del recuadro
-        }
+        
     }
 
-
+    private void OnTriggerEnter2D(UnityEngine.Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("TriggerPhoto"))
+        {
+            GameManager.CameraGreen();
+        }
+    }
+    private void OnTriggerStay2D(UnityEngine.Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("TriggerPhoto"))
+        {
+            GameManager.CameraYellow();
+        }
+    }
+    private void OnTriggerExit2D(UnityEngine.Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("TriggerPhoto"))
+        {
+            GameManager.CameraRed();
+        }
+    }
 }
