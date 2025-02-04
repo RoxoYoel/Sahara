@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Larbi
   m_EditorClassIdentifier: 
   characterPhoto: {fileID: 21300000, guid: 7ca919c35ad327b46a19255daace105d, type: 3}
-  characterName: Amina
+  characterName: Larbi

@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class DialogEventScript : MonoBehaviour
 {
-    public GhostMove script;
+    public RPG_Move script;
     public GameObject dialog;
 
     void Start()
@@ -24,6 +24,7 @@ public class DialogEventScript : MonoBehaviour
     {
         script.enabled = true;
         dialog.SetActive(false); 
-
     }
+
+    
 }
