@@ -1,0 +1,3757 @@
+fileFormatVersion: 2
+guid: 0fc63e27c71215249bd90428b9f758da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9137472906709762765
+    second: DesertTileMapSeparado_0
+  - first:
+      213: 132061658469564692
+    second: DesertTileMapSeparado_1
+  - first:
+      213: 6038743700397293018
+    second: DesertTileMapSeparado_2
+  - first:
+      213: -7772008590820137886
+    second: DesertTileMapSeparado_3
+  - first:
+      213: -4339161738266492596
+    second: DesertTileMapSeparado_4
+  - first:
+      213: -4161653594810328107
+    second: DesertTileMapSeparado_5
+  - first:
+      213: -4855224229400303608
+    second: DesertTileMapSeparado_6
+  - first:
+      213: -5171079283327310053
+    second: DesertTileMapSeparado_7
+  - first:
+      213: 762749706028105344
+    second: DesertTileMapSeparado_8
+  - first:
+      213: 4504137408093083623
+    second: DesertTileMapSeparado_9
+  - first:
+      213: 3918138193600947700
+    second: DesertTileMapSeparado_10
+  - first:
+      213: 6064313885410006710
+    second: DesertTileMapSeparado_11
+  - first:
+      213: -1425217578244638839
+    second: DesertTileMapSeparado_12
+  - first:
+      213: -2968652718548870553
+    second: DesertTileMapSeparado_13
+  - first:
+      213: 1510383364220118608
+    second: DesertTileMapSeparado_14
+  - first:
+      213: 1770220434342385849
+    second: DesertTileMapSeparado_15
+  - first:
+      213: -3392170419712639016
+    second: DesertTileMapSeparado_16
+  - first:
+      213: 8005080257051206241
+    second: DesertTileMapSeparado_17
+  - first:
+      213: 3566397652552442473
+    second: DesertTileMapSeparado_18
+  - first:
+      213: 9015048519716667968
+    second: DesertTileMapSeparado_19
+  - first:
+      213: -4293950490516567657
+    second: DesertTileMapSeparado_20
+  - first:
+      213: -3246604325643337873
+    second: DesertTileMapSeparado_21
+  - first:
+      213: -8551201498559569397
+    second: DesertTileMapSeparado_22
+  - first:
+      213: 8085743948013434875
+    second: DesertTileMapSeparado_23
+  - first:
+      213: -7235469010336448026
+    second: DesertTileMapSeparado_24
+  - first:
+      213: 4237022785532623527
+    second: DesertTileMapSeparado_25
+  - first:
+      213: 4785015781385478738
+    second: DesertTileMapSeparado_26
+  - first:
+      213: 1545306689010446773
+    second: DesertTileMapSeparado_27
+  - first:
+      213: 360887686202327723
+    second: DesertTileMapSeparado_28
+  - first:
+      213: -5952547150958640225
+    second: DesertTileMapSeparado_29
+  - first:
+      213: 5564410989089711435
+    second: DesertTileMapSeparado_30
+  - first:
+      213: -2557795229127032789
+    second: DesertTileMapSeparado_31
+  - first:
+      213: 681927818006083304
+    second: DesertTileMapSeparado_32
+  - first:
+      213: -2656623540480817926
+    second: DesertTileMapSeparado_33
+  - first:
+      213: 5401060052866633809
+    second: DesertTileMapSeparado_34
+  - first:
+      213: 3333140661836619560
+    second: DesertTileMapSeparado_35
+  - first:
+      213: 6215354637779601164
+    second: DesertTileMapSeparado_36
+  - first:
+      213: 3285043429415007699
+    second: DesertTileMapSeparado_37
+  - first:
+      213: -8697775858591638174
+    second: DesertTileMapSeparado_38
+  - first:
+      213: 1471849153998914759
+    second: DesertTileMapSeparado_39
+  - first:
+      213: -6903139523227701341
+    second: DesertTileMapSeparado_40
+  - first:
+      213: -1344712241353330688
+    second: DesertTileMapSeparado_41
+  - first:
+      213: -1856944483198462114
+    second: DesertTileMapSeparado_42
+  - first:
+      213: -3368026874113684120
+    second: DesertTileMapSeparado_43
+  - first:
+      213: 3638491072353005353
+    second: DesertTileMapSeparado_44
+  - first:
+      213: -8676008185307440884
+    second: DesertTileMapSeparado_45
+  - first:
+      213: 6578061011364049980
+    second: DesertTileMapSeparado_46
+  - first:
+      213: 2700459648448633544
+    second: DesertTileMapSeparado_47
+  - first:
+      213: -8703841600707256896
+    second: DesertTileMapSeparado_48
+  - first:
+      213: -7650313057882644189
+    second: DesertTileMapSeparado_49
+  - first:
+      213: 1070644873300253840
+    second: DesertTileMapSeparado_50
+  - first:
+      213: 4544899120841756448
+    second: DesertTileMapSeparado_51
+  - first:
+      213: 1666846999258816972
+    second: DesertTileMapSeparado_52
+  - first:
+      213: 7477722321524066211
+    second: DesertTileMapSeparado_53
+  - first:
+      213: 5967404016911199062
+    second: DesertTileMapSeparado_54
+  - first:
+      213: 4547223045541805710
+    second: DesertTileMapSeparado_55
+  - first:
+      213: 6781638365025789043
+    second: DesertTileMapSeparado_56
+  - first:
+      213: -8406136375595511131
+    second: DesertTileMapSeparado_57
+  - first:
+      213: -6301221909853748483
+    second: DesertTileMapSeparado_58
+  - first:
+      213: 6136789639826368843
+    second: DesertTileMapSeparado_59
+  - first:
+      213: -6004605032952980554
+    second: DesertTileMapSeparado_60
+  - first:
+      213: 388099493360976124
+    second: DesertTileMapSeparado_61
+  - first:
+      213: 224501700037373317
+    second: DesertTileMapSeparado_62
+  - first:
+      213: -3007413253335845256
+    second: DesertTileMapSeparado_63
+  - first:
+      213: 8150233856072667531
+    second: DesertTileMapSeparado_64
+  - first:
+      213: 7734061386572455673
+    second: DesertTileMapSeparado_65
+  - first:
+      213: -5193719386911844295
+    second: DesertTileMapSeparado_66
+  - first:
+      213: -2952031037424250268
+    second: DesertTileMapSeparado_67
+  - first:
+      213: -4020610751224264135
+    second: DesertTileMapSeparado_68
+  - first:
+      213: -2361484458594089237
+    second: DesertTileMapSeparado_69
+  - first:
+      213: 8465962723370104785
+    second: DesertTileMapSeparado_70
+  - first:
+      213: -6645776365768670026
+    second: DesertTileMapSeparado_71
+  - first:
+      213: -474333588630327558
+    second: DesertTileMapSeparado_72
+  - first:
+      213: -1234665211137822491
+    second: DesertTileMapSeparado_73
+  - first:
+      213: -7351809341596524996
+    second: DesertTileMapSeparado_74
+  - first:
+      213: 4028860874910409278
+    second: DesertTileMapSeparado_75
+  - first:
+      213: -2204931073873056210
+    second: DesertTileMapSeparado_76
+  - first:
+      213: -765421010615780871
+    second: DesertTileMapSeparado_77
+  - first:
+      213: -2028628650803399234
+    second: DesertTileMapSeparado_78
+  - first:
+      213: 2895166679382438934
+    second: DesertTileMapSeparado_79
+  - first:
+      213: 4821408523025257683
+    second: DesertTileMapSeparado_80
+  - first:
+      213: -4437856384187066322
+    second: DesertTileMapSeparado_81
+  - first:
+      213: -9211285744788157164
+    second: DesertTileMapSeparado_82
+  - first:
+      213: -7381193446686172626
+    second: DesertTileMapSeparado_83
+  - first:
+      213: -4209153903706513368
+    second: DesertTileMapSeparado_84
+  - first:
+      213: 3457784941449958083
+    second: DesertTileMapSeparado_85
+  - first:
+      213: -2787373597525920941
+    second: DesertTileMapSeparado_86
+  - first:
+      213: -3767135717920025214
+    second: DesertTileMapSeparado_87
+  - first:
+      213: -4578369191479725778
+    second: DesertTileMapSeparado_88
+  - first:
+      213: 1834930639817843674
+    second: DesertTileMapSeparado_89
+  - first:
+      213: 7394260778573628618
+    second: DesertTileMapSeparado_90
+  - first:
+      213: 4664443326230040877
+    second: DesertTileMapSeparado_91
+  - first:
+      213: 7275069338348200486
+    second: DesertTileMapSeparado_92
+  - first:
+      213: -5275836155159872232
+    second: DesertTileMapSeparado_93
+  - first:
+      213: 4001360920345735128
+    second: DesertTileMapSeparado_94
+  - first:
+      213: 2425744153537380590
+    second: DesertTileMapSeparado_95
+  - first:
+      213: 5280295792531850806
+    second: DesertTileMapSeparado_96
+  - first:
+      213: 134765817682101725
+    second: DesertTileMapSeparado_97
+  - first:
+      213: 7543265965321850544
+    second: DesertTileMapSeparado_98
+  - first:
+      213: -4120681616924466153
+    second: DesertTileMapSeparado_99
+  - first:
+      213: 4509273667989840693
+    second: DesertTileMapSeparado_100
+  - first:
+      213: 5377790420250160404
+    second: DesertTileMapSeparado_101
+  - first:
+      213: 5029166179489974362
+    second: DesertTileMapSeparado_102
+  - first:
+      213: -7839897919067510531
+    second: DesertTileMapSeparado_103
+  - first:
+      213: -8077046767506572159
+    second: DesertTileMapSeparado_104
+  - first:
+      213: 6513786418141836640
+    second: DesertTileMapSeparado_105
+  - first:
+      213: -6528020646754577587
+    second: DesertTileMapSeparado_106
+  - first:
+      213: -595836217077954492
+    second: DesertTileMapSeparado_107
+  - first:
+      213: 8626962620647066245
+    second: DesertTileMapSeparado_108
+  - first:
+      213: 3977831265782528836
+    second: DesertTileMapSeparado_109
+  - first:
+      213: -7964576845222947189
+    second: DesertTileMapSeparado_110
+  - first:
+      213: -3104917768224785894
+    second: DesertTileMapSeparado_111
+  - first:
+      213: -1337284058143453577
+    second: DesertTileMapSeparado_112
+  - first:
+      213: 5692930322024378357
+    second: DesertTileMapSeparado_113
+  - first:
+      213: 5949273145290008957
+    second: DesertTileMapSeparado_114
+  - first:
+      213: 4075094901619720792
+    second: DesertTileMapSeparado_115
+  - first:
+      213: -1128978416334860930
+    second: DesertTileMapSeparado_116
+  - first:
+      213: -3066172563688140730
+    second: DesertTileMapSeparado_117
+  - first:
+      213: 7866297258101059909
+    second: DesertTileMapSeparado_118
+  - first:
+      213: -6443461214137177418
+    second: DesertTileMapSeparado_119
+  - first:
+      213: -2773855395399635234
+    second: DesertTileMapSeparado_120
+  - first:
+      213: 4726246403386457670
+    second: DesertTileMapSeparado_121
+  - first:
+      213: -1961772607567115184
+    second: DesertTileMapSeparado_122
+  - first:
+      213: -223874086178636061
+    second: DesertTileMapSeparado_123
+  - first:
+      213: -3302376878500030029
+    second: DesertTileMapSeparado_124
+  - first:
+      213: -2399750317050099701
+    second: DesertTileMapSeparado_125
+  - first:
+      213: -7713911776369528222
+    second: DesertTileMapSeparado_126
+  - first:
+      213: 3586136484507378514
+    second: DesertTileMapSeparado_127
+  - first:
+      213: -4945286792560197407
+    second: DesertTileMapSeparado_128
+  - first:
+      213: -2726503103111458064
+    second: DesertTileMapSeparado_129
+  - first:
+      213: 2754993446502606321
+    second: DesertTileMapSeparado_130
+  - first:
+      213: -4619761033704627958
+    second: DesertTileMapSeparado_131
+  - first:
+      213: 7110588746130012882
+    second: DesertTileMapSeparado_132
+  - first:
+      213: 4489547156576557430
+    second: DesertTileMapSeparado_133
+  - first:
+      213: -359287263952150015
+    second: DesertTileMapSeparado_134
+  - first:
+      213: 5625675387508504225
+    second: DesertTileMapSeparado_135
+  - first:
+      213: 7389243165406014152
+    second: DesertTileMapSeparado_136
+  - first:
+      213: 6156857195576064220
+    second: DesertTileMapSeparado_137
+  - first:
+      213: -5306768408922461589
+    second: DesertTileMapSeparado_138
+  - first:
+      213: -897084424041280443
+    second: DesertTileMapSeparado_139
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dfec2cdcc213180800000000000000
+      internalID: -9137472906709762765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 205
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4110781f06d25d100800000000000000
+      internalID: 132061658469564692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addfecf966dedc350800000000000000
+      internalID: 6038743700397293018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 205
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264a1e05d57442490800000000000000
+      internalID: -7772008590820137886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41c8af836338c3c0800000000000000
+      internalID: -4339161738266492596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 205
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db5a1bda16de36c0800000000000000
+      internalID: -4161653594810328107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808a9b59947ce9cb0800000000000000
+      internalID: -4855224229400303608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 205
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17e4e31ac2ac38b0800000000000000
+      internalID: -5171079283327310053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08eb65001d4d59a00800000000000000
+      internalID: 762749706028105344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7dfe4db19e18e30800000000000000
+      internalID: 4504137408093083623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5a97a8de5006630800000000000000
+      internalID: 3918138193600947700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 205
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b615524955c82450800000000000000
+      internalID: 6064313885410006710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987f519e92c983ce0800000000000000
+      internalID: -1425217578244638839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a9561c41a3dc6d0800000000000000
+      internalID: -2968652718548870553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 221
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056effadaa5f5f410800000000000000
+      internalID: 1510383364220118608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b89d132b16119810800000000000000
+      internalID: 1770220434342385849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 221
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfb07bc9f69ce0d0800000000000000
+      internalID: -3392170419712639016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162a700c412c71f60800000000000000
+      internalID: 8005080257051206241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 221
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962ec28f4c36e7130800000000000000
+      internalID: 3566397652552442473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 221
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0428f9a6dd2eb1d70800000000000000
+      internalID: 9015048519716667968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79945a977c2d864c0800000000000000
+      internalID: -4293950490516567657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 188
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f38cb219eb1f2d0800000000000000
+      internalID: -3246604325643337873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 170
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02a1931b87045980800000000000000
+      internalID: -8551201498559569397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 188
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7fa16d745563070800000000000000
+      internalID: 8085743948013434875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 170
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e18c8f2543769b90800000000000000
+      internalID: -7235469010336448026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 170
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa78e456cdecca30800000000000000
+      internalID: 4237022785532623527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 188
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252ae16408ac76240800000000000000
+      internalID: 4785015781385478738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_27
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 170
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1b08b0f38027510800000000000000
+      internalID: 1545306689010446773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 170
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba207e34071220500800000000000000
+      internalID: 360887686202327723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 170
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93c85677ed446da0800000000000000
+      internalID: -5952547150958640225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 188
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45e8f42052c83d40800000000000000
+      internalID: 5564410989089711435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 185
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20c1b77ac2e08cd0800000000000000
+      internalID: -2557795229127032789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 185
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6b5baccb1b67900800000000000000
+      internalID: 681927818006083304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_33
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 185
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af443bf17f6c12bd0800000000000000
+      internalID: -2656623540480817926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_34
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1501ba5808b64fa40800000000000000
+      internalID: 5401060052866633809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_35
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f9e2fa5c1b14e20800000000000000
+      internalID: 3333140661836619560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c070ee9dc10614650800000000000000
+      internalID: 6215354637779601164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5330a1891d69d20800000000000000
+      internalID: 3285043429415007699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_38
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d5dac70fa4b4780800000000000000
+      internalID: -8697775858591638174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_39
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c48013e10f0d6410800000000000000
+      internalID: 1471849153998914759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afad039d2f1330a0800000000000000
+      internalID: -6903139523227701341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_41
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000f301575f965de0800000000000000
+      internalID: -1344712241353330688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57955fb4deca36e0800000000000000
+      internalID: -1856944483198462114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_43
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d0c7e076d5241d0800000000000000
+      internalID: -3368026874113684120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fe70e4a548e7230800000000000000
+      internalID: 3638491072353005353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_45
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c095e5ed580a89780800000000000000
+      internalID: -8676008185307440884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34733543a7f94b50800000000000000
+      internalID: 6578061011364049980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_47
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca9e0c1eb5f97520800000000000000
+      internalID: 2700459648448633544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_48
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd9398dd2eb53780800000000000000
+      internalID: -8703841600707256896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_49
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3216f549ec0a4d590800000000000000
+      internalID: -7650313057882644189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_50
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 151
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c97a9f6d1bbde00800000000000000
+      internalID: 1070644873300253840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_51
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f02c5aba9b21f30800000000000000
+      internalID: 4544899120841756448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_52
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 151
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc16fb5b384d12710800000000000000
+      internalID: 1666846999258816972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7837f25d436c760800000000000000
+      internalID: 7477722321524066211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b2b33365a70d250800000000000000
+      internalID: 5967404016911199062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e3df7844bfa1f30800000000000000
+      internalID: 4547223045541805710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374e58e89283d1e50800000000000000
+      internalID: 6781638365025789043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_57
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2d3270187675b80800000000000000
+      internalID: -8406136375595511131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_58
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2424cee009d88a0800000000000000
+      internalID: -6301221909853748483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_59
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49e52fc9a14a2550800000000000000
+      internalID: 6136789639826368843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_60
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb905a498b5baca0800000000000000
+      internalID: -6004605032952980554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_61
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf04a47de6ec26500800000000000000
+      internalID: 388099493360976124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_62
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58de2325b179d1300800000000000000
+      internalID: 224501700037373317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_63
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8767d1e74958346d0800000000000000
+      internalID: -3007413253335845256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 115
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81d293a2827b1170800000000000000
+      internalID: 8150233856072667531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_65
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 115
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe57b1bad7e45b60800000000000000
+      internalID: 7734061386572455673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_66
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 115
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9385f003cb33ce7b0800000000000000
+      internalID: -5193719386911844295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_67
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 115
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462566879674807d0800000000000000
+      internalID: -2952031037424250268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_68
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 115
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a4929e2dbe338c0800000000000000
+      internalID: -4020610751224264135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_69
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6c4e685625a3fd0800000000000000
+      internalID: -2361484458594089237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d77c280e342d7570800000000000000
+      internalID: 8465962723370104785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_71
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b40cad2b9575c3a0800000000000000
+      internalID: -6645776365768670026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_72
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 98
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe27a04d14da69f0800000000000000
+      internalID: -474333588630327558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_73
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 98
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0f89138869ddee0800000000000000
+      internalID: -1234665211137822491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_74
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 115
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e9db9fa5029f990800000000000000
+      internalID: -7351809341596524996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_75
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 98
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e322182be9369e730800000000000000
+      internalID: 4028860874910409278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 94
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e639bded28661e0800000000000000
+      internalID: -2204931073873056210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_77
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f930ae65ada065f0800000000000000
+      internalID: -765421010615780871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_78
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 94
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5feaf7dfcd8d3e0800000000000000
+      internalID: -2028628650803399234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_79
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 93
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614332271c2bd2820800000000000000
+      internalID: 2895166679382438934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_80
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 93
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d416fbb18519e240800000000000000
+      internalID: 4821408523025257683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_81
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 93
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e289450a1219962c0800000000000000
+      internalID: -4437856384187066322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_82
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 93
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d48492b60fa2080800000000000000
+      internalID: -9211285744788157164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_83
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 93
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a54dfdaabb09990800000000000000
+      internalID: -7381193446686172626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_84
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 93
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820ef9c53d41695c0800000000000000
+      internalID: -4209153903706513368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_85
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 78
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2d1d885158cff20800000000000000
+      internalID: 3457784941449958083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_86
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 78
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3533a2f2b724159d0800000000000000
+      internalID: -2787373597525920941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_87
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 78
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285d0b0160278bbc0800000000000000
+      internalID: -3767135717920025214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 74
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2132434a7d5670c0800000000000000
+      internalID: -4578369191479725778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_89
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 74
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3a2dde1bbf67910800000000000000
+      internalID: 1834930639817843674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_90
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 74
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac40c7b6001bd9660800000000000000
+      internalID: 7394260778573628618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_91
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 74
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2112eeed7e6bb040800000000000000
+      internalID: 4664443326230040877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_92
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 74
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622a49ca40d36f460800000000000000
+      internalID: 7275069338348200486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_93
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 74
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d788e28f678c6b0800000000000000
+      internalID: -5275836155159872232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_94
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 74
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df66539e80b78730800000000000000
+      internalID: 4001360920345735128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_95
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 76
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0839b9479f9a120800000000000000
+      internalID: 2425744153537380590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_96
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 58
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636c9de0c01674940800000000000000
+      internalID: 5280295792531850806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_97
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 76
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd58ec21cc8ced100800000000000000
+      internalID: 134765817682101725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_98
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 58
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be8d45fd601fa860800000000000000
+      internalID: 7543265965321850544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_99
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 58
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7142cb6d6e560d6c0800000000000000
+      internalID: -4120681616924466153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_100
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 58
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533ae878288249e30800000000000000
+      internalID: 4509273667989840693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_101
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 58
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d628bf4efb1aa40800000000000000
+      internalID: 5377790420250160404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_102
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5888ec9eff2bc540800000000000000
+      internalID: 5029166179489974362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_103
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 56
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df828a25166133390800000000000000
+      internalID: -7839897919067510531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_104
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 56
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cbd8c42c098ef80800000000000000
+      internalID: -8077046767506572159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_105
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065bb1c5c3e956a50800000000000000
+      internalID: 6513786418141836640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_106
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 56
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4317c70fcfc765a0800000000000000
+      internalID: -6528020646754577587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_107
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 56
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44881c01e1a2bb7f0800000000000000
+      internalID: -595836217077954492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_108
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 56
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58acd3ebbc029b770800000000000000
+      internalID: 8626962620647066245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_109
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 40
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bf865f578143730800000000000000
+      internalID: 3977831265782528836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_110
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 40
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b865f22be83287190800000000000000
+      internalID: -7964576845222947189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_111
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ab9288dbd19e4d0800000000000000
+      internalID: -3104917768224785894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_112
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 36
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e019efb33017de0800000000000000
+      internalID: -1337284058143453577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_113
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff205727f9510f40800000000000000
+      internalID: 5692930322024378357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_114
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 37
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7928c0b760109250800000000000000
+      internalID: 5949273145290008957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_115
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 37
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8528c05e835ad8830800000000000000
+      internalID: 4075094901619720792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_116
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 37
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d0747ac101550f0800000000000000
+      internalID: -1128978416334860930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_117
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 37
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640d1517c44c275d0800000000000000
+      internalID: -3066172563688140730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_118
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 20
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5413eb6cda3ba2d60800000000000000
+      internalID: 7866297258101059909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_119
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 20
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baa8572a2a3496a0800000000000000
+      internalID: -6443461214137177418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_120
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 20
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede67e2e6394189d0800000000000000
+      internalID: -2773855395399635234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_121
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 20
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e31da2010079140800000000000000
+      internalID: 4726246403386457670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_122
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cced3153266c4e0800000000000000
+      internalID: -1961772607567115184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_123
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee38ea64b3a4ecf0800000000000000
+      internalID: -223874086178636061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_124
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9da8ac9b99b22d0800000000000000
+      internalID: -3302376878500030029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_125
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0809921dcf52bed0800000000000000
+      internalID: -2399750317050099701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_126
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262bac40c1ea2f490800000000000000
+      internalID: -7713911776369528222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_127
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253612be12484c130800000000000000
+      internalID: 3586136484507378514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_128
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0c4090ddfce5bb0800000000000000
+      internalID: -4945286792560197407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_129
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f29a049fd3892ad0800000000000000
+      internalID: -2726503103111458064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_130
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5215961f3bb3620800000000000000
+      internalID: 2754993446502606321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_131
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0128def0df43efb0800000000000000
+      internalID: -4619761033704627958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_132
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da38f48ac2eda260800000000000000
+      internalID: 7110588746130012882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_133
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6795c1e2a531e4e30800000000000000
+      internalID: 4489547156576557430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_134
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1026fc3132e830bf0800000000000000
+      internalID: -359287263952150015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_135
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a63a1675f9621e40800000000000000
+      internalID: 5625675387508504225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_136
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca2201528ddb8660800000000000000
+      internalID: 7389243165406014152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_137
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd87e1bbffc817550800000000000000
+      internalID: 6156857195576064220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_138
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a69e0af329a56b0800000000000000
+      internalID: -5306768408922461589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTileMapSeparado_139
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ccb73287aec83f0800000000000000
+      internalID: -897084424041280443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DesertTileMapSeparado_0: -9137472906709762765
+      DesertTileMapSeparado_1: 132061658469564692
+      DesertTileMapSeparado_10: 3918138193600947700
+      DesertTileMapSeparado_100: 4509273667989840693
+      DesertTileMapSeparado_101: 5377790420250160404
+      DesertTileMapSeparado_102: 5029166179489974362
+      DesertTileMapSeparado_103: -7839897919067510531
+      DesertTileMapSeparado_104: -8077046767506572159
+      DesertTileMapSeparado_105: 6513786418141836640
+      DesertTileMapSeparado_106: -6528020646754577587
+      DesertTileMapSeparado_107: -595836217077954492
+      DesertTileMapSeparado_108: 8626962620647066245
+      DesertTileMapSeparado_109: 3977831265782528836
+      DesertTileMapSeparado_11: 6064313885410006710
+      DesertTileMapSeparado_110: -7964576845222947189
+      DesertTileMapSeparado_111: -3104917768224785894
+      DesertTileMapSeparado_112: -1337284058143453577
+      DesertTileMapSeparado_113: 5692930322024378357
+      DesertTileMapSeparado_114: 5949273145290008957
+      DesertTileMapSeparado_115: 4075094901619720792
+      DesertTileMapSeparado_116: -1128978416334860930
+      DesertTileMapSeparado_117: -3066172563688140730
+      DesertTileMapSeparado_118: 7866297258101059909
+      DesertTileMapSeparado_119: -6443461214137177418
+      DesertTileMapSeparado_12: -1425217578244638839
+      DesertTileMapSeparado_120: -2773855395399635234
+      DesertTileMapSeparado_121: 4726246403386457670
+      DesertTileMapSeparado_122: -1961772607567115184
+      DesertTileMapSeparado_123: -223874086178636061
+      DesertTileMapSeparado_124: -3302376878500030029
+      DesertTileMapSeparado_125: -2399750317050099701
+      DesertTileMapSeparado_126: -7713911776369528222
+      DesertTileMapSeparado_127: 3586136484507378514
+      DesertTileMapSeparado_128: -4945286792560197407
+      DesertTileMapSeparado_129: -2726503103111458064
+      DesertTileMapSeparado_13: -2968652718548870553
+      DesertTileMapSeparado_130: 2754993446502606321
+      DesertTileMapSeparado_131: -4619761033704627958
+      DesertTileMapSeparado_132: 7110588746130012882
+      DesertTileMapSeparado_133: 4489547156576557430
+      DesertTileMapSeparado_134: -359287263952150015
+      DesertTileMapSeparado_135: 5625675387508504225
+      DesertTileMapSeparado_136: 7389243165406014152
+      DesertTileMapSeparado_137: 6156857195576064220
+      DesertTileMapSeparado_138: -5306768408922461589
+      DesertTileMapSeparado_139: -897084424041280443
+      DesertTileMapSeparado_14: 1510383364220118608
+      DesertTileMapSeparado_15: 1770220434342385849
+      DesertTileMapSeparado_16: -3392170419712639016
+      DesertTileMapSeparado_17: 8005080257051206241
+      DesertTileMapSeparado_18: 3566397652552442473
+      DesertTileMapSeparado_19: 9015048519716667968
+      DesertTileMapSeparado_2: 6038743700397293018
+      DesertTileMapSeparado_20: -4293950490516567657
+      DesertTileMapSeparado_21: -3246604325643337873
+      DesertTileMapSeparado_22: -8551201498559569397
+      DesertTileMapSeparado_23: 8085743948013434875
+      DesertTileMapSeparado_24: -7235469010336448026
+      DesertTileMapSeparado_25: 4237022785532623527
+      DesertTileMapSeparado_26: 4785015781385478738
+      DesertTileMapSeparado_27: 1545306689010446773
+      DesertTileMapSeparado_28: 360887686202327723
+      DesertTileMapSeparado_29: -5952547150958640225
+      DesertTileMapSeparado_3: -7772008590820137886
+      DesertTileMapSeparado_30: 5564410989089711435
+      DesertTileMapSeparado_31: -2557795229127032789
+      DesertTileMapSeparado_32: 681927818006083304
+      DesertTileMapSeparado_33: -2656623540480817926
+      DesertTileMapSeparado_34: 5401060052866633809
+      DesertTileMapSeparado_35: 3333140661836619560
+      DesertTileMapSeparado_36: 6215354637779601164
+      DesertTileMapSeparado_37: 3285043429415007699
+      DesertTileMapSeparado_38: -8697775858591638174
+      DesertTileMapSeparado_39: 1471849153998914759
+      DesertTileMapSeparado_4: -4339161738266492596
+      DesertTileMapSeparado_40: -6903139523227701341
+      DesertTileMapSeparado_41: -1344712241353330688
+      DesertTileMapSeparado_42: -1856944483198462114
+      DesertTileMapSeparado_43: -3368026874113684120
+      DesertTileMapSeparado_44: 3638491072353005353
+      DesertTileMapSeparado_45: -8676008185307440884
+      DesertTileMapSeparado_46: 6578061011364049980
+      DesertTileMapSeparado_47: 2700459648448633544
+      DesertTileMapSeparado_48: -8703841600707256896
+      DesertTileMapSeparado_49: -7650313057882644189
+      DesertTileMapSeparado_5: -4161653594810328107
+      DesertTileMapSeparado_50: 1070644873300253840
+      DesertTileMapSeparado_51: 4544899120841756448
+      DesertTileMapSeparado_52: 1666846999258816972
+      DesertTileMapSeparado_53: 7477722321524066211
+      DesertTileMapSeparado_54: 5967404016911199062
+      DesertTileMapSeparado_55: 4547223045541805710
+      DesertTileMapSeparado_56: 6781638365025789043
+      DesertTileMapSeparado_57: -8406136375595511131
+      DesertTileMapSeparado_58: -6301221909853748483
+      DesertTileMapSeparado_59: 6136789639826368843
+      DesertTileMapSeparado_6: -4855224229400303608
+      DesertTileMapSeparado_60: -6004605032952980554
+      DesertTileMapSeparado_61: 388099493360976124
+      DesertTileMapSeparado_62: 224501700037373317
+      DesertTileMapSeparado_63: -3007413253335845256
+      DesertTileMapSeparado_64: 8150233856072667531
+      DesertTileMapSeparado_65: 7734061386572455673
+      DesertTileMapSeparado_66: -5193719386911844295
+      DesertTileMapSeparado_67: -2952031037424250268
+      DesertTileMapSeparado_68: -4020610751224264135
+      DesertTileMapSeparado_69: -2361484458594089237
+      DesertTileMapSeparado_7: -5171079283327310053
+      DesertTileMapSeparado_70: 8465962723370104785
+      DesertTileMapSeparado_71: -6645776365768670026
+      DesertTileMapSeparado_72: -474333588630327558
+      DesertTileMapSeparado_73: -1234665211137822491
+      DesertTileMapSeparado_74: -7351809341596524996
+      DesertTileMapSeparado_75: 4028860874910409278
+      DesertTileMapSeparado_76: -2204931073873056210
+      DesertTileMapSeparado_77: -765421010615780871
+      DesertTileMapSeparado_78: -2028628650803399234
+      DesertTileMapSeparado_79: 2895166679382438934
+      DesertTileMapSeparado_8: 762749706028105344
+      DesertTileMapSeparado_80: 4821408523025257683
+      DesertTileMapSeparado_81: -4437856384187066322
+      DesertTileMapSeparado_82: -9211285744788157164
+      DesertTileMapSeparado_83: -7381193446686172626
+      DesertTileMapSeparado_84: -4209153903706513368
+      DesertTileMapSeparado_85: 3457784941449958083
+      DesertTileMapSeparado_86: -2787373597525920941
+      DesertTileMapSeparado_87: -3767135717920025214
+      DesertTileMapSeparado_88: -4578369191479725778
+      DesertTileMapSeparado_89: 1834930639817843674
+      DesertTileMapSeparado_9: 4504137408093083623
+      DesertTileMapSeparado_90: 7394260778573628618
+      DesertTileMapSeparado_91: 4664443326230040877
+      DesertTileMapSeparado_92: 7275069338348200486
+      DesertTileMapSeparado_93: -5275836155159872232
+      DesertTileMapSeparado_94: 4001360920345735128
+      DesertTileMapSeparado_95: 2425744153537380590
+      DesertTileMapSeparado_96: 5280295792531850806
+      DesertTileMapSeparado_97: 134765817682101725
+      DesertTileMapSeparado_98: 7543265965321850544
+      DesertTileMapSeparado_99: -4120681616924466153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

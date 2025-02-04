@@ -35,6 +35,6 @@ public class RPG_Move : MonoBehaviour
     }
     private void FixedUpdate()
     {
-        rb.MovePosition(rb.position + movement *moveSpeed);
+        rb.MovePosition(rb.position + movement * moveSpeed);
     }
 }
