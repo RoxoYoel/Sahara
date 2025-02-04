@@ -11,12 +11,12 @@ GameObject:
   - component: {fileID: 6935941806034815098}
   - component: {fileID: 7940766270575124298}
   - component: {fileID: 680152027738674342}
-  - component: {fileID: 1315474571546439402}
   - component: {fileID: 4502192185245555133}
   - component: {fileID: 1703784292750040874}
   - component: {fileID: 6556700693233304608}
+  - component: {fileID: 436403333234978536}
   m_Layer: 0
-  m_Name: BaseCharacter
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -81,7 +81,7 @@ SpriteRenderer:
   m_SortingLayerID: 1670371835
   m_SortingLayer: 3
   m_SortingOrder: 0
-  m_Sprite: {fileID: 8793639957104055765, guid: fd672be4c476bc74c9e4e968d7a5e3ad, type: 3}
+  m_Sprite: {fileID: 5704420531145803721, guid: fdffd1a0aa5f63c4b81ce0e85f3c8861, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -114,19 +114,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &1315474571546439402
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8706512698101121332}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5795b343c4bed8b4b8d64f4341d8c828, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveSpeed: 0.1
 --- !u!50 &4502192185245555133
 Rigidbody2D:
   serializedVersion: 5
@@ -209,15 +196,29 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 0.3820533}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.8125, y: 1}
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 0.8125, y: 0.875}
     newSize: {x: 0.8125, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.8125, y: 1}
+  m_Size: {x: 0.8125, y: 0.7787469}
   m_EdgeRadius: 0
+--- !u!114 &436403333234978536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8706512698101121332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe953f4e3d692f489e05598c198b43c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 5
+  anim: {fileID: 680152027738674342}
