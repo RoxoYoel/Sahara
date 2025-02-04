@@ -3,7 +3,7 @@ using UnityEngine;
 public class DialogEventScript : MonoBehaviour
 {
     public RPG_Move script;
-    public GameObject dialog;
+    //public GameObject dialog;
 
     void Start()
     {
@@ -20,7 +20,7 @@ public class DialogEventScript : MonoBehaviour
     {
         script.enabled = false;
     }
-    public void DialogExit()
+    public void DialogExit(GameObject dialog)
     {
         script.enabled = true;
         dialog.SetActive(false); 
