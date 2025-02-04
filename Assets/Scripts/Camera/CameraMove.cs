@@ -10,7 +10,7 @@ public class MouseFollower : MonoBehaviour
     {
         if (mainCamera == null)
         {
-            mainCamera = Camera.main; // Obtiene la cámara principal si no se asignó
+            mainCamera = Camera.main;
         }
     }
 

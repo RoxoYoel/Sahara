@@ -12,18 +12,11 @@ public class PhotoCamera : MonoBehaviour
         
     }
 
-    private void OnTriggerEnter2D(UnityEngine.Collider2D collision)
-    {
-        if (collision.gameObject.CompareTag("TriggerPhoto"))
-        {
-            GameManager.CameraGreen();
-        }
-    }
     private void OnTriggerStay2D(UnityEngine.Collider2D collision)
     {
         if (collision.gameObject.CompareTag("TriggerPhoto"))
         {
-            GameManager.CameraYellow();
+            GameManager.CameraGreen();
         }
     }
     private void OnTriggerExit2D(UnityEngine.Collider2D collision)

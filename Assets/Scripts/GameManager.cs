@@ -9,12 +9,12 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        CameraRed();  // Inicia con la pantalla roja
+        CameraRed();
     }
 
     private void Update()
     {
-        // Esto ya no es necesario porque cada método maneja sus transiciones.
+
     }
 
     public void LoadSceneCamara()
@@ -24,7 +24,6 @@ public class GameManager : MonoBehaviour
 
     public void CameraYellow()
     {
-        // Activa solo la pantalla amarilla y desactiva las demás
         YellowScreen.SetActive(true);
         GreenScreen.SetActive(false);
         RedScreen.SetActive(false);
@@ -32,7 +31,6 @@ public class GameManager : MonoBehaviour
 
     public void CameraGreen()
     {
-        // Activa solo la pantalla verde y desactiva las demás
         GreenScreen.SetActive(true);
         RedScreen.SetActive(false);
         YellowScreen.SetActive(false);
@@ -40,8 +38,13 @@ public class GameManager : MonoBehaviour
 
     public void CameraRed()
     {
-        // Activa solo la pantalla roja y desactiva las demás
         RedScreen.SetActive(true);
+        GreenScreen.SetActive(false);
+        YellowScreen.SetActive(false);
+    }
+     public void CameraShoot()
+    {
+        RedScreen.SetActive(false);
         GreenScreen.SetActive(false);
         YellowScreen.SetActive(false);
     }
