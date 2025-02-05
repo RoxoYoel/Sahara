@@ -14,6 +14,7 @@ public class photoShoot : MonoBehaviour
         if (Input.GetMouseButtonDown(0) && GameManager.Photo == true)
         {
             anim.SetBool("Photo", true);
+            audioSource.Play(); 
         }
         if (Input.GetMouseButtonUp(0))
         {
