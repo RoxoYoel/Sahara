@@ -11300,7 +11300,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8698760498914190613, guid: af3432f032cf29342b3544ab5d4fd7df, type: 3}
       propertyPath: orthographic size
-      value: 4.28125
+      value: 4.821429
       objectReference: {fileID: 0}
     - target: {fileID: 9025837213553079269, guid: af3432f032cf29342b3544ab5d4fd7df, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11332,6 +11332,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1576470327}
   - component: {fileID: 1576470326}
+  - component: {fileID: 1576470329}
   - component: {fileID: 1576470325}
   - component: {fileID: 1576470324}
   - component: {fileID: 1576470328}
@@ -11448,6 +11449,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1576470329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1576470323}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e063d2bd5e4eccd4e90618ac881ce134, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  anim: {fileID: 1576470328}
 --- !u!1 &1637895721
 GameObject:
   m_ObjectHideFlags: 0

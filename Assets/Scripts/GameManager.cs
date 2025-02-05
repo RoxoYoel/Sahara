@@ -6,7 +6,6 @@ public class GameManager : MonoBehaviour
     public GameObject RedScreen;
     public GameObject YellowScreen;
     public GameObject GreenScreen;
-
     private void Start()
     {
         CameraRed();
@@ -42,10 +41,5 @@ public class GameManager : MonoBehaviour
         GreenScreen.SetActive(false);
         YellowScreen.SetActive(false);
     }
-     public void CameraShoot()
-    {
-        RedScreen.SetActive(false);
-        GreenScreen.SetActive(false);
-        YellowScreen.SetActive(false);
-    }
+
 }
