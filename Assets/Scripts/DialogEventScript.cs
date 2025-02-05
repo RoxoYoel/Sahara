@@ -2,19 +2,7 @@ using UnityEngine;
 
 public class DialogEventScript : MonoBehaviour
 {
-    public RPG_Move script;
-    //public GameObject dialog;
-
-    void Start()
-    {
-
-    }
-
-
-    void Update()
-    {
-        
-    }
+    public RPG_Move_v2 script;
 
     public void DialogEnter()
     {
@@ -25,6 +13,4 @@ public class DialogEventScript : MonoBehaviour
         script.enabled = true;
         dialog.SetActive(false); 
     }
-
-    
 }
