@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FondoSahara2_0: -8161189695164399093
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
