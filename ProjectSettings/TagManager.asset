@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - TriggerPhoto
+  - Foto
   layers:
   - Default
   - TransparentFX
