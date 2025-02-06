@@ -4,7 +4,8 @@ using UnityEngine.SceneManagement;
 public class EscenaFoto : MonoBehaviour
 {
     public GameObject texto;
-    public NombreFoto script;
+    public NombreFoto []script;
+    public int num;
 
     private void OnTriggerStay2D(Collider2D other)
     {
@@ -14,7 +15,7 @@ public class EscenaFoto : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.F))
             {
                 print("f");
-                script.CambiarEscena();
+                script[num].CambiarEscena();
             }
         }
     }
