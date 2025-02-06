@@ -20,6 +20,11 @@ public class EscenaFoto : MonoBehaviour
         }
     }
 
+    public void CambiarNumero(int nuevoNum)
+    {
+        num = nuevoNum;
+    }
+
     private void OnTriggerExit2D(Collider2D collision)
     {
         texto.SetActive(false);
