@@ -47,7 +47,7 @@ public class GameManager : MonoBehaviour
     }
     public void AlbumAmina()
     {
-        SceneManager.LoadScene("AlbumAmina");
+        SceneManager.LoadScene("AlbumMinatu");
     }
     public void CambiarEscenaPrincipal()
     {

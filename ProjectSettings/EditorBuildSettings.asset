@@ -23,6 +23,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FotoMinatu.unity
     guid: e1b65d22aaa187845920fb5913f4cf0b
+  - enabled: 1
+    path: Assets/Scenes/AlbumMinatu.unity
+    guid: 9b49fa147f4663e4297f777eade21f32
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
