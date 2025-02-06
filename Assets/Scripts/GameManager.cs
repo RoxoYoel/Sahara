@@ -45,5 +45,13 @@ public class GameManager : MonoBehaviour
         YellowScreen.SetActive(false);
         Photo = false;
     }
+    public void AlbumAmina()
+    {
+        SceneManager.LoadScene("AlbumAmina");
+    }
+    public void CambiarEscenaPrincipal()
+    {
+        SceneManager.LoadScene("Nacos");
+    }
 
 }
