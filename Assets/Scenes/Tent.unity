@@ -317,9 +317,21 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2117818205}
     - target: {fileID: 4573874484961663198, guid: 2f8356347fb635e40924ae7246569db0, type: 3}
+      propertyPath: openMenuSound
+      value: 
+      objectReference: {fileID: 8300000, guid: a827516a3405ee24184112ca5b70062f, type: 3}
+    - target: {fileID: 4573874484961663198, guid: 2f8356347fb635e40924ae7246569db0, type: 3}
+      propertyPath: closeMenuSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 1536f047c23cc864da59f4725efcaaaa, type: 3}
+    - target: {fileID: 4573874484961663198, guid: 2f8356347fb635e40924ae7246569db0, type: 3}
       propertyPath: settingsCanvas
       value: 
       objectReference: {fileID: 1254340173}
+    - target: {fileID: 4573874484961663198, guid: 2f8356347fb635e40924ae7246569db0, type: 3}
+      propertyPath: audioMixerGroup
+      value: 
+      objectReference: {fileID: 8804904330961489015, guid: bf91298bba2589b428936c792469797f, type: 2}
     - target: {fileID: 4573874484961663198, guid: 2f8356347fb635e40924ae7246569db0, type: 3}
       propertyPath: pauseMenuCanvas
       value: 
