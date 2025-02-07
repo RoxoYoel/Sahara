@@ -57,5 +57,9 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene("Nacos");
     }
+    public void CambiarEscenaPrincipal2()
+    {
+        SceneManager.LoadScene("DesertSC2");
+    }
 
 }
