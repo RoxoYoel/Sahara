@@ -865,6 +865,9 @@ MonoBehaviour:
   YellowScreen: {fileID: 423034420}
   GreenScreen: {fileID: 892867937}
   Photo: 0
+  Album: {fileID: 0}
+  Minatu: {fileID: 0}
+  Mural: {fileID: 0}
 --- !u!1 &747915511
 GameObject:
   m_ObjectHideFlags: 0
@@ -1076,7 +1079,7 @@ GameObject:
   - component: {fileID: 1101506817}
   - component: {fileID: 1101506816}
   m_Layer: 5
-  m_Name: BotonesFinales
+  m_Name: CanvasVerFoto
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1111,10 +1114,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 320, y: 180}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -1531,6 +1534,7 @@ MonoBehaviour:
   GameManager: {fileID: 690179889}
   audioSource: {fileID: 1576470330}
   opciones: {fileID: 1139885687}
+  cambiarVelocidad: 0
 --- !u!82 &1576470330
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2157,6 +2161,18 @@ PrefabInstance:
       value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 2246380756634272422, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.47664648
+      objectReference: {fileID: 0}
+    - target: {fileID: 2246380756634272422, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.6077243
+      objectReference: {fileID: 0}
+    - target: {fileID: 2246380756634272422, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.47664648
+      objectReference: {fileID: 0}
+    - target: {fileID: 2246380756634272422, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -2186,11 +2202,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2246380756634272422, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 427
+      value: 78.9
       objectReference: {fileID: 0}
     - target: {fileID: 2246380756634272422, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 293
+      value: 46.9
       objectReference: {fileID: 0}
     - target: {fileID: 2246380756634272422, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2205,9 +2221,41 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 690179889}
+    - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 690179889}
+    - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: AlbumMinatu
+      objectReference: {fileID: 0}
+    - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MinatuBoolTrue
+      objectReference: {fileID: 0}
+    - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: GameManager, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8749399659933062625, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
       propertyPath: m_Name
       value: VerFoto

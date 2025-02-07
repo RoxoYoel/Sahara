@@ -8,10 +8,12 @@ public class photoShoot : MonoBehaviour
     public GameManager GameManager;
     public AudioSource audioSource;
     public GameObject opciones;
+    public bool cambiarVelocidad = false;
     void Start()
     {
         anim = GetComponent<Animator>();
         opciones.SetActive(false);
+        cambiarVelocidad= false;
     }
     public void CameraShoot()
     {
@@ -32,9 +34,10 @@ public class photoShoot : MonoBehaviour
         yield return new WaitForSeconds(segundos); 
         Time.timeScale = 0;
         opciones.SetActive(true);
+
     }
 
-        void Update()
+    void Update()
     {
         CameraShoot();
     }

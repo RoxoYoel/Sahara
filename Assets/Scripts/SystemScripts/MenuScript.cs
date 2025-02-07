@@ -17,6 +17,11 @@ public class MenuScript : MonoBehaviour
     public float scrollSpeed = 100f; 
     private float backgroundWidth;
 
+    public AudioClip openMenuSound;
+    public AudioClip closeMenuSound;
+    private AudioSource audioSource;
+    public AudioMixerGroup audioMixerGroup;
+
 
     void Start()
     {
@@ -24,6 +29,19 @@ public class MenuScript : MonoBehaviour
 
         backgroundWidth = background1.rect.width;
         background2.anchoredPosition = new Vector2(background1.anchoredPosition.x + backgroundWidth, background1.anchoredPosition.y);
+
+        audioSource = GetComponent<AudioSource>();
+
+        if (audioSource == null)
+        {
+            // Agrega automáticamente un AudioSource si no existe
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
+
+        if (audioMixerGroup != null)
+        {
+            audioSource.outputAudioMixerGroup = audioMixerGroup;
+        }
 
     }
     void Update()
@@ -74,12 +92,14 @@ public class MenuScript : MonoBehaviour
     {
         Time.timeScale = 0f;
         isPaused = true;
+        PlaySound(openMenuSound);
     }
 
     public void ResumeGame()
     {
         Time.timeScale = 1f;
         isPaused = false;
+        PlaySound(closeMenuSound);
     }
 
     public void MostrasCanvas(GameObject canvas)
@@ -105,5 +125,12 @@ public class MenuScript : MonoBehaviour
     public void ToggleSettings()
     {
         settingsCanvas.SetActive(!settingsCanvas.activeSelf);
+    }
+    private void PlaySound(AudioClip clip)
+    {
+        if (clip != null)
+        {
+            audioSource.PlayOneShot(clip);
+        }
     }
 }
