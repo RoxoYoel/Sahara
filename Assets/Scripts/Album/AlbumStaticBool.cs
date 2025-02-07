@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class AlbumStaticBool : MonoBehaviour
 {
-    public static bool AlbumMinatu = true;
-    public static bool AlbumMural = true;
+    public static bool AlbumMinatu = false;
+    public static bool AlbumMural = false;
 
 
     public GameManager Manager;

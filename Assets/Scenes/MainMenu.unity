@@ -814,7 +814,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Sal\xEDr"
+  m_text: Salir
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 7097ba476e7e90d4dbaddb6a02b812ad, type: 2}
   m_sharedMaterial: {fileID: 4832463898135357503, guid: 7097ba476e7e90d4dbaddb6a02b812ad, type: 2}
@@ -1769,6 +1769,9 @@ MonoBehaviour:
   background1: {fileID: 1431195168}
   background2: {fileID: 2068636089}
   scrollSpeed: 25
+  openMenuSound: {fileID: 0}
+  closeMenuSound: {fileID: 0}
+  audioMixerGroup: {fileID: 0}
 --- !u!4 &1513703800
 Transform:
   m_ObjectHideFlags: 0

@@ -1094,6 +1094,9 @@ MonoBehaviour:
   background1: {fileID: 1431195168}
   background2: {fileID: 286423572}
   scrollSpeed: 25
+  openMenuSound: {fileID: 0}
+  closeMenuSound: {fileID: 0}
+  audioMixerGroup: {fileID: 0}
 --- !u!4 &1513703800
 Transform:
   m_ObjectHideFlags: 0
@@ -1140,6 +1143,9 @@ MonoBehaviour:
   YellowScreen: {fileID: 0}
   GreenScreen: {fileID: 0}
   Photo: 0
+  Album: {fileID: 0}
+  Minatu: {fileID: 0}
+  Mural: {fileID: 0}
 --- !u!1 &1532064633
 GameObject:
   m_ObjectHideFlags: 0
