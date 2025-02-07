@@ -16,12 +16,18 @@ public class DialogEventScript : MonoBehaviour
         script.enabled = true;
         dialog.SetActive(false); 
     }
+
+    public void ActivarObjeto(GameObject obj)
+    {
+        obj.SetActive(true);
+    }
+
     public void LinaColor()
     {
         if (tmpText != null)
         {
-            tmpText.color = new Color(1f, 0.4f, 0.7f); 
-            tmpName.color = new Color(1f, 0.4f, 0.7f); 
+            tmpText.color = new Color(1f, 0.7f, 0.8f); 
+            tmpName.color = new Color(1f, 0.7f, 0.8f); 
         }
     }
     public void PlayerColor()
@@ -37,24 +43,24 @@ public class DialogEventScript : MonoBehaviour
     {
         if (tmpText != null)
         {
-            tmpText.color = new Color(0f, 1f, 0f);
-            tmpName.color = new Color(0f, 1f, 0f);  
+            tmpText.color = new Color(0.6f, 1f, 0.6f);
+            tmpName.color = new Color(0.6f, 1f, 0.6f);  
         }
     }
     public void LarbiColor()
     {
         if (tmpText != null)
         {
-            tmpText.color = new Color(1f, 0.5f, 0f);
-            tmpName.color = new Color(1f, 0.5f, 0f);
+            tmpText.color = new Color(1f, 0.7f, 0.5f);
+            tmpName.color = new Color(1f, 0.7f, 0.5f);
         }
     }
  public void MinatuColor()
     {
         if (tmpText != null)
         {
-            tmpText.color = new Color(1f, 0f, 0f);
-            tmpName.color = new Color(1f, 0f, 0f);
+            tmpText.color = new Color(1f, 0.5f, 0.5f);
+            tmpName.color = new Color(1f, 0.5f, 0.5f);
         }
     }
 

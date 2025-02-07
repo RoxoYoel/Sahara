@@ -7,6 +7,7 @@ public class MenuScript : MonoBehaviour
 {
     //PAUSA PARAMETROS
     public GameObject pauseMenuCanvas;
+    public GameObject mapaCanvas;
     private bool isPaused = false;
     public GameObject settingsCanvas;
 
@@ -32,10 +33,28 @@ public class MenuScript : MonoBehaviour
             if (isPaused)
             {
                 ResumeGame();
+                OcultarCanvas(pauseMenuCanvas);
+
             }
             else
             {
                 PauseGame();
+                MostrasCanvas(pauseMenuCanvas);
+            }
+        }
+
+        if (Input.GetKeyDown(KeyCode.M))
+        {
+            if (isPaused)
+            {
+                ResumeGame();
+                OcultarCanvas(mapaCanvas);
+
+            }
+            else
+            {
+                PauseGame();
+                MostrasCanvas(mapaCanvas);
             }
         }
 
@@ -53,16 +72,24 @@ public class MenuScript : MonoBehaviour
     }
     public void PauseGame()
     {
-        pauseMenuCanvas.SetActive(true);
         Time.timeScale = 0f;
         isPaused = true;
     }
 
     public void ResumeGame()
     {
-        pauseMenuCanvas.SetActive(false);
         Time.timeScale = 1f;
         isPaused = false;
+    }
+
+    public void MostrasCanvas(GameObject canvas)
+    {
+        canvas.SetActive(true);
+    }
+
+    public void OcultarCanvas(GameObject canvas) 
+    { 
+        canvas.SetActive(false);
     }
 
     public void ChangeScene(string sceneName)

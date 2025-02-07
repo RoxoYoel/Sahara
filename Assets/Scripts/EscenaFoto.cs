@@ -27,6 +27,9 @@ public class EscenaFoto : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        texto.SetActive(false);
+        if (collision.CompareTag("Foto"))
+        {
+            texto.SetActive(false);
+        }
     }
 }
