@@ -19,7 +19,7 @@ public class photoShoot : MonoBehaviour
         {
             anim.SetBool("Photo", true);
             audioSource.Play();
-            StartCoroutine(AparecerBotonesDespuesDeTiempo(2f));
+            StartCoroutine(AparecerBotonesDespuesDeTiempo(0.45f));
 
         }
         if (Input.GetMouseButtonUp(0))
