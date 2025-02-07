@@ -24,7 +24,7 @@ public class DialogEventScript : MonoBehaviour
 
     public void DesactivarObjeto(GameObject obj)
     {
-        obj.SetActive(true);
+        obj.SetActive(false);
     }
 
     public void LinaColor()
