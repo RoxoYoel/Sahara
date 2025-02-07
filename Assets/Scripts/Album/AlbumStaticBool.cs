@@ -4,25 +4,31 @@ public class AlbumStaticBool : MonoBehaviour
 {
     public static bool AlbumMinatu = false;
     public static bool AlbumMural = false;
-
+    private bool albumActivo = false;
 
     public GameManager Manager;
-    void Start()
-    {
-        
-    }
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.V)) 
+        if (Input.GetKeyDown(KeyCode.V))
         {
-            Manager.AlbumActivo();
+            if (albumActivo)
+            {
+                Manager.AlbumDesactivo();
+            }
+            else
+            {
+                Manager.AlbumActivo();
+            }
+            albumActivo = !albumActivo; // Alterna entre true y false
         }
-        if (AlbumMinatu == true) 
+
+        if (AlbumMinatu)
         {
             Manager.MinatuEnAlbum();
         }
-        if (AlbumMural == true)
+
+        if (AlbumMural)
         {
             Manager.MuralEnAlbum();
         }
