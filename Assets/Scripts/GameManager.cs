@@ -45,9 +45,13 @@ public class GameManager : MonoBehaviour
         YellowScreen.SetActive(false);
         Photo = false;
     }
-    public void AlbumAmina()
+    public void AlbumMinatu()
     {
         SceneManager.LoadScene("AlbumMinatu");
+    }
+    public void AlbumMural()
+    {
+        SceneManager.LoadScene("AlbumMural");
     }
     public void CambiarEscenaPrincipal()
     {
