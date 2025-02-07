@@ -8,10 +8,12 @@ public class GameManager : MonoBehaviour
     public GameObject YellowScreen;
     public GameObject GreenScreen;
     public bool Photo;
+    public GameObject Album;
     private static bool AlbumsMinatu;
     private static bool AlbumsMural;
     private void Start()
     {
+        Album.SetActive(false); 
         CameraRed();
     }
 
@@ -68,9 +70,9 @@ public class GameManager : MonoBehaviour
     {
         Time.timeScale =1.0f;
     }
-    public void AlbumMinatuActivo()
+    public void AlbumActivo()
     {
-        
+        Album.SetActive (true);
     }
 
 }
