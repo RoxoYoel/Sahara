@@ -14,15 +14,7 @@ public class GameManager : MonoBehaviour
 
     private void Update()
     {
-        if (SceneManager.GetActiveScene().name == "Naco")
-        {
-            Time.timeScale = 1.0f;
-        }
 
-        else if (SceneManager.GetActiveScene().name == "DesertSC2")
-        {
-            Time.timeScale = 1.0f;
-        }
     }
 
     public void LoadSceneCamara()
@@ -68,6 +60,10 @@ public class GameManager : MonoBehaviour
     public void CambiarEscenaPrincipal2()
     {
         SceneManager.LoadScene("DesertSC2");
+    }
+     public void TimeScale1()
+    {
+        Time.timeScale =1.0f;
     }
 
 }
