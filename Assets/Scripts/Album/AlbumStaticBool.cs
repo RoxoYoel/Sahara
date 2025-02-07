@@ -2,9 +2,10 @@ using UnityEngine;
 
 public class AlbumStaticBool : MonoBehaviour
 {
-    public static bool AlbumMinatu = false;
-    public GameObject Minatu;
-    public GameObject Mural;
+    public static bool AlbumMinatu = true;
+    public static bool AlbumMural = true;
+
+
     public GameManager Manager;
     void Start()
     {
@@ -16,6 +17,14 @@ public class AlbumStaticBool : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.V)) 
         {
             Manager.AlbumActivo();
-        }  
+        }
+        if (AlbumMinatu == true) 
+        {
+            Manager.MinatuEnAlbum();
+        }
+        if (AlbumMural == true)
+        {
+            Manager.MuralEnAlbum();
+        }
     }
 }

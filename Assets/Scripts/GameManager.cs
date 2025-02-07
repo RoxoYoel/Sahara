@@ -9,10 +9,13 @@ public class GameManager : MonoBehaviour
     public GameObject GreenScreen;
     public bool Photo;
     public GameObject Album;
-    private static bool AlbumsMinatu;
-    private static bool AlbumsMural;
+    public GameObject Minatu;
+    public GameObject Mural;
     private void Start()
     {
+        Minatu.SetActive(false);
+        Mural.SetActive(false);
+
         Album.SetActive(false); 
         CameraRed();
     }
@@ -73,6 +76,23 @@ public class GameManager : MonoBehaviour
     public void AlbumActivo()
     {
         Album.SetActive (true);
+    }
+    public void MinatuEnAlbum()
+    {
+        Minatu.SetActive (true);
+    }
+    public void MuralEnAlbum()
+    {
+        Mural.SetActive(true);
+    }
+
+    public void MinatuBoolTrue()
+    {
+        AlbumStaticBool.AlbumMinatu = true;
+    }
+    public void MuralBoolTrue()
+    {
+        AlbumStaticBool.AlbumMural = true;
     }
 
 }
