@@ -141,7 +141,8 @@ public class MenuScript : MonoBehaviour
     {
         if (Map != null)
         {
-            Map.SetActive(true); // Activa el botón para que sea clickeable
+            //Map.SetActive(true); = !MapSetActive(false); // Activa el botón para que sea clickeable
+            Map.SetActive(!Map.activeSelf);
         }
     }
     
