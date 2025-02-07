@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      iconoExclamacion01_0: 3975725724213870903
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
