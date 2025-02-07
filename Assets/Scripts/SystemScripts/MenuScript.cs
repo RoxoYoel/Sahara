@@ -23,6 +23,10 @@ public class MenuScript : MonoBehaviour
     public AudioMixerGroup audioMixerGroup;
 
     public GameObject Map;
+    public GameObject Album;
+    public GameObject ingameMap;
+
+    public AudioSource activationSound;
 
 
     void Start()
@@ -137,12 +141,29 @@ public class MenuScript : MonoBehaviour
             audioSource.PlayOneShot(clip);
         }
     }
-    public void ActivateMap()
+    public void MapToogle()
     {
         if (Map != null)
         {
-            //Map.SetActive(true); = !MapSetActive(false); // Activa el botón para que sea clickeable
-            Map.SetActive(!Map.activeSelf);
+            Map.gameObject.SetActive(!Map.gameObject.activeSelf);
+            activationSound.Play();
+        }
+    }
+
+        public void ActivateMap()
+    {
+        if (ingameMap != null)
+        {
+            ingameMap.SetActive(true);
+            
+        }
+    }
+    public void AlbumToggle()
+    {
+        if (Album != null)
+        {
+            Album.gameObject.SetActive(!Album.gameObject.activeSelf);
+            activationSound.Play();
         }
     }
     
