@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 26ce9fade4c39c644a95c7f92228d599
   - enabled: 1
@@ -19,7 +16,7 @@ EditorBuildSettings:
     guid: 5edf139c313dc994c875a6ee049b0244
   - enabled: 1
     path: Assets/Scenes/DesertSC2.unity
-    guid: 1c8f1168500e70f44aedd2d596919f5d
+    guid: d9e35e9db2bb19d4aa37274b1079862f
   - enabled: 1
     path: Assets/Scenes/FotoMinatu.unity
     guid: e1b65d22aaa187845920fb5913f4cf0b
