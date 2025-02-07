@@ -22,7 +22,7 @@ public class MenuScript : MonoBehaviour
     private AudioSource audioSource;
     public AudioMixerGroup audioMixerGroup;
 
-    public Button Map;
+    public GameObject Map;
 
 
     void Start()
@@ -141,7 +141,7 @@ public class MenuScript : MonoBehaviour
     {
         if (Map != null)
         {
-            Map.SetActive(true);// Activa el botón para que sea clickeable
+            Map.SetActive(true); // Activa el botón para que sea clickeable
         }
     }
     
