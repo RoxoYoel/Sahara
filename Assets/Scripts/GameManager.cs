@@ -77,6 +77,10 @@ public class GameManager : MonoBehaviour
     {
         Album.SetActive (true);
     }
+    public void AlbumDesactivo()
+    {
+        Album.SetActive(false);
+    }
     public void MinatuEnAlbum()
     {
         Minatu.SetActive (true);
