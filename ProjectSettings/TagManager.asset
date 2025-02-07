@@ -6,6 +6,7 @@ TagManager:
   tags:
   - TriggerPhoto
   - Foto
+  - MSG
   layers:
   - Default
   - TransparentFX
