@@ -22,6 +22,8 @@ public class MenuScript : MonoBehaviour
     private AudioSource audioSource;
     public AudioMixerGroup audioMixerGroup;
 
+    public Button Map;
+
 
     void Start()
     {
@@ -34,7 +36,7 @@ public class MenuScript : MonoBehaviour
 
         if (audioSource == null)
         {
-            // Agrega automáticamente un AudioSource si no existe
+            // Agrega automï¿½ticamente un AudioSource si no existe
             audioSource = gameObject.AddComponent<AudioSource>();
         }
 
@@ -75,6 +77,8 @@ public class MenuScript : MonoBehaviour
                 MostrasCanvas(mapaCanvas);
             }
         }
+
+        
 
         //BACKGROUND INFINITO
         background1.anchoredPosition += Vector2.left * scrollSpeed * Time.deltaTime;
@@ -133,4 +137,12 @@ public class MenuScript : MonoBehaviour
             audioSource.PlayOneShot(clip);
         }
     }
+    public void ActivateMap()
+    {
+        if (Map != null)
+        {
+            Map.SetActive(true);// Activa el botÃ³n para que sea clickeable
+        }
+    }
+    
 }
