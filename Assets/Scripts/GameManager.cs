@@ -1,3 +1,4 @@
+using JetBrains.Annotations;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -7,6 +8,8 @@ public class GameManager : MonoBehaviour
     public GameObject YellowScreen;
     public GameObject GreenScreen;
     public bool Photo;
+    private static bool AlbumsMinatu;
+    private static bool AlbumsMural;
     private void Start()
     {
         CameraRed();
@@ -64,6 +67,10 @@ public class GameManager : MonoBehaviour
      public void TimeScale1()
     {
         Time.timeScale =1.0f;
+    }
+    public void AlbumMinatuActivo()
+    {
+        
     }
 
 }
