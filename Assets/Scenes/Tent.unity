@@ -1274,9 +1274,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ffba114d60b9454cbc42e0853ed73d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RedScreen: {fileID: 0}
-  YellowScreen: {fileID: 0}
-  GreenScreen: {fileID: 0}
+  RedScreen: {fileID: 1254340173}
+  YellowScreen: {fileID: 1254340173}
+  GreenScreen: {fileID: 1254340173}
   Photo: 0
   Album: {fileID: 471018928}
   Minatu: {fileID: 747947022}

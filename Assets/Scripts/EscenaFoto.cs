@@ -6,18 +6,28 @@ public class EscenaFoto : MonoBehaviour
     public GameObject texto;
     public NombreFoto []script;
     public int num;
+    bool zonaFoto;
+
+    private void Update()
+    {
+        if (zonaFoto && Input.GetKeyDown(KeyCode.F))
+        {
+            SacarFoto();
+        }
+    }
 
     private void OnTriggerStay2D(Collider2D other)
     {
         if (other.CompareTag("Foto"))
         {
             texto.SetActive(true);
-            if (Input.GetKeyDown(KeyCode.F))
-            {
-                print("f");
-                script[num].CambiarEscena();
-            }
+            zonaFoto = true;
         }
+    }
+
+    public void SacarFoto()
+    {
+        script[num].CambiarEscena();
     }
 
     public void CambiarNumero(int nuevoNum)
@@ -30,6 +40,7 @@ public class EscenaFoto : MonoBehaviour
         if (collision.CompareTag("Foto"))
         {
             texto.SetActive(false);
+            zonaFoto = false;
         }
     }
 }

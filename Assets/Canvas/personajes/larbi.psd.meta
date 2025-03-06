@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      larbi_0: 8462952198098998908
+      larbi_1: -3822500148694574184
+      larbi_10: 9082105791561090240
+      larbi_11: -4864435229730691728
+      larbi_2: -5332651607188088517
+      larbi_3: -2140631403236437811
+      larbi_4: -8170075911329760671
+      larbi_5: 8312492591136285045
+      larbi_6: -4918081166823061795
+      larbi_7: 81449015463971615
+      larbi_8: -420716354220718614
+      larbi_9: 9080023941857470587
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

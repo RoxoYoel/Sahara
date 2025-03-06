@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      amina_0: 2722444849568722417
+      amina_1: -378550683658559102
+      amina_10: 6261681476859220351
+      amina_11: -6426002798864371690
+      amina_2: -4590966248169695192
+      amina_3: 3755751220041129320
+      amina_4: -4683755052585596027
+      amina_5: 9203508173905010229
+      amina_6: -6795302334161207728
+      amina_7: -372783032854993978
+      amina_8: -7301366865072715232
+      amina_9: -1801252698192247299
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      minatu_0: 1050233994568152971
+      minatu_1: -8774866302811733664
+      minatu_10: 7389766180682561989
+      minatu_11: 2525408746013743019
+      minatu_2: -2151512945121994095
+      minatu_3: -6803853013397756462
+      minatu_4: -8636629467101784591
+      minatu_5: -3414101923374565270
+      minatu_6: 7511671658361787247
+      minatu_7: -6332364350363815450
+      minatu_8: 8288644395749343823
+      minatu_9: 808107865325271732
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

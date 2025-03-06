@@ -32,5 +32,10 @@ public class AlbumStaticBool : MonoBehaviour
         {
             Manager.MuralEnAlbum();
         }
+
+        if (AlbumMinatu && AlbumMural)
+        {
+            print("Demo acabada");
+        }
     }
 }

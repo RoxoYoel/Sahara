@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lina_0: 4499056247913652778
+      lina_1: 145808383400009345
+      lina_10: 744855121922175208
+      lina_11: -7897410786343112758
+      lina_2: -7839358781651393936
+      lina_3: -7410902547715693571
+      lina_4: -7015449054424685885
+      lina_5: 6240627171120936215
+      lina_6: 6743351271675899400
+      lina_7: 7843523257142223103
+      lina_8: -4845972488367647599
+      lina_9: 776671685596378192
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

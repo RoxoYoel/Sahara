@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Coche copia_0: 8950181039447498989
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
