@@ -1,6 +1,8 @@
 using JetBrains.Annotations;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System.Collections;
+
 
 public class GameManager : MonoBehaviour
 {
@@ -11,6 +13,7 @@ public class GameManager : MonoBehaviour
     public GameObject Album;
     public GameObject Minatu;
     public GameObject Mural;
+
 
     private void Start()
     {

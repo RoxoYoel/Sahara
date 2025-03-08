@@ -1,11 +1,37 @@
 using UnityEngine;
 using TMPro;
+using System.Collections;
 
 public class DialogEventScript : MonoBehaviour
 {
     public RPG_Move_v2 script;
     public TMP_Text tmpText;
     public TMP_Text tmpName;
+    public AudioSource CocheCerrado;
+    public GameObject closeCar;
+    public GameObject openCar;
+
+    public void CerrarCoche()
+    {
+        StartCoroutine(SubirseAlCoche(1f));
+    }
+
+    IEnumerator SubirseAlCoche(float segundos)
+    {
+        yield return new WaitForSeconds(segundos);
+        closeCar.SetActive(true);
+        openCar.SetActive(false);
+    }
+    public void SonidoCerrarCoche()
+    {
+        StartCoroutine(SonidoCerrarCoche(0.85f));
+    }
+
+    IEnumerator SonidoCerrarCoche(float segundos)
+    {
+        yield return new WaitForSeconds(segundos);
+        CocheCerrado.Play();
+    }
 
     public void DialogEnter()
     {
