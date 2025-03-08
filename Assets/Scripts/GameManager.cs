@@ -104,4 +104,12 @@ public class GameManager : MonoBehaviour
     {
         AlbumStaticBool.AlbumMural = true;
     }
+
+    public void EscenaFinal()
+    {
+        if (AlbumStaticBool.AlbumCompleto)
+        {
+            SceneManager.LoadScene("EscenaFinal");
+        }
+    }
 }

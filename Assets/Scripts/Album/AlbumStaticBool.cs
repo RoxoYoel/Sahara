@@ -4,6 +4,7 @@ public class AlbumStaticBool : MonoBehaviour
 {
     public static bool AlbumMinatu = false;
     public static bool AlbumMural = false;
+    public static bool AlbumCompleto = false;
     private bool albumActivo = false;
 
     public GameManager Manager;
@@ -35,7 +36,7 @@ public class AlbumStaticBool : MonoBehaviour
 
         if (AlbumMinatu && AlbumMural)
         {
-            print("Demo acabada");
+            AlbumCompleto = true;
         }
     }
 }

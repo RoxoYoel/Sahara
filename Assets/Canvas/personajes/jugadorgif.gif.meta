@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      jugadorgif_0: 5521300974952855765
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
