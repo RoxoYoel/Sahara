@@ -108,6 +108,7 @@ public class MenuScript : MonoBehaviour
         Time.timeScale = 1f;
         isPaused = false;
         PlaySound(closeMenuSound);
+        pauseMenuCanvas.SetActive(false);
     }
 
     public void MostrasCanvas(GameObject canvas)
