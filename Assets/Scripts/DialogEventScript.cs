@@ -10,7 +10,41 @@ public class DialogEventScript : MonoBehaviour
     public AudioSource CocheCerrado;
     public GameObject closeCar;
     public GameObject openCar;
+    public Animator cocheAnim;
+    public AudioSource cocheArrancando;
+    public GameObject finDemo;
 
+    public void FinDemo()
+    {
+        StartCoroutine(FinDemo(5f));
+    }
+
+    IEnumerator FinDemo(float segundos)
+    {
+        yield return new WaitForSeconds(segundos);
+        finDemo.SetActive(true);
+    }
+
+
+    public void CochePirando()
+    {
+        StartCoroutine(CochePirando(2.5f));
+    }
+    IEnumerator CochePirando(float segundos)
+    {
+        yield return new WaitForSeconds(segundos);
+        cocheAnim.SetBool("Marchar", true);
+    }
+
+    public void CocheSonidoPirando()
+    {
+        StartCoroutine(CocheSonidoPirando(1.5f));
+    }
+    IEnumerator CocheSonidoPirando(float segundos)
+    {
+        yield return new WaitForSeconds(segundos);
+        cocheArrancando.Play();
+    }
     public void CerrarCoche()
     {
         StartCoroutine(SubirseAlCoche(1f));
