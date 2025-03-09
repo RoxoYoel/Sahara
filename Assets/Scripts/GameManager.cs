@@ -90,7 +90,7 @@ public class GameManager : MonoBehaviour
 
     public void MinatuEnAlbum()
     {
-        Minatu.SetActive (true);
+        Minatu.SetActive(true);
     }
 
     public void MuralEnAlbum()
@@ -113,6 +113,7 @@ public class GameManager : MonoBehaviour
         if (AlbumStaticBool.AlbumCompleto)
         {
             SceneManager.LoadScene("EscenaFinal");
+            print("ALBUM");
         }
     }
 }

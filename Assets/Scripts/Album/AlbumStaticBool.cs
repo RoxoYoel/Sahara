@@ -36,6 +36,7 @@ public class AlbumStaticBool : MonoBehaviour
 
         if (AlbumMinatu && AlbumMural)
         {
+            print("ESTA COMPLETO");
             AlbumCompleto = true;
         }
     }
