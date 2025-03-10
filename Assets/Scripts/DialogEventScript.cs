@@ -1,6 +1,7 @@
 using UnityEngine;
 using TMPro;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class DialogEventScript : MonoBehaviour
 {
@@ -23,6 +24,16 @@ public class DialogEventScript : MonoBehaviour
     {
         yield return new WaitForSeconds(segundos);
         finDemo.SetActive(true);
+    }
+    public void CargarEscena()
+    {
+        StartCoroutine(CargarEscena(12f));
+    }
+
+    IEnumerator CargarEscena(float segundos)
+    {
+        yield return new WaitForSeconds(segundos);
+        SceneManager.LoadScene(0);
     }
 
 
