@@ -27,11 +27,13 @@ public class AlbumStaticBool : MonoBehaviour
         if (AlbumMinatu)
         {
             Manager.MinatuEnAlbum();
+            print("AlmbuMinatuListo");
         }
 
         if (AlbumMural)
         {
             Manager.MuralEnAlbum();
+            print("AlmbuMuralListo");
         }
 
         if (AlbumMinatu && AlbumMural)

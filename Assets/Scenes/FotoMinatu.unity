@@ -827,6 +827,7 @@ GameObject:
   m_Component:
   - component: {fileID: 690179888}
   - component: {fileID: 690179889}
+  - component: {fileID: 690179890}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -868,6 +869,19 @@ MonoBehaviour:
   Album: {fileID: 1204076175}
   Minatu: {fileID: 1204076175}
   Mural: {fileID: 1204076175}
+--- !u!114 &690179890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 690179887}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 966beaa2ca7b3874aa4dfa82f16ac2a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Manager: {fileID: 690179889}
 --- !u!1 &747915511
 GameObject:
   m_ObjectHideFlags: 0

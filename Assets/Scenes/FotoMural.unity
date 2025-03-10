@@ -643,6 +643,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 690179889}
@@ -655,11 +659,19 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 690179889}
     - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_Target
+      value: 
+      objectReference: {fileID: 690179889}
+    - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_CallState
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
@@ -675,6 +687,10 @@ PrefabInstance:
       value: TimeScale1
       objectReference: {fileID: 0}
     - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_MethodName
+      value: MuralEnAlbum
+      objectReference: {fileID: 0}
+    - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
       value: GameManager, Assembly-CSharp
       objectReference: {fileID: 0}
@@ -683,11 +699,19 @@ PrefabInstance:
       value: GameManager, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_TargetAssemblyTypeName
+      value: GameManager, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 4449501526547794780, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 8749399659933062625, guid: 67ab0c12269f19446a55a2ed59adc09f, type: 3}
@@ -1027,6 +1051,7 @@ GameObject:
   m_Component:
   - component: {fileID: 690179888}
   - component: {fileID: 690179889}
+  - component: {fileID: 690179890}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -1068,6 +1093,19 @@ MonoBehaviour:
   Album: {fileID: 408532106}
   Minatu: {fileID: 408532106}
   Mural: {fileID: 408532106}
+--- !u!114 &690179890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 690179887}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 966beaa2ca7b3874aa4dfa82f16ac2a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Manager: {fileID: 690179889}
 --- !u!1 &747915511
 GameObject:
   m_ObjectHideFlags: 0
